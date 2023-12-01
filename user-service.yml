@@ -2,3 +2,5 @@ spirng:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
+    username: sa
+    password: '{cipher}590b8da1cfe76f91fe257224d34cb85674f00e1cfdf1febfec622ac9da6dfc01'
